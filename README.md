@@ -8,9 +8,11 @@
   <tr>
     <td><h3>Programming Languages:</h3></td>
     <td>
+      <li>
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       </a>Python
+        </li>
     </td>
     <td><h3>Frontend Development:</h3></td>
     <td>
@@ -34,54 +36,62 @@
   <tr>
     <td><h3>Backend Development:</h3></td>
     <td>
+      <li>
       <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
       </a> nginx
+        </li>
     </td>
     <td><h3>Database:</h3></td>
     <td>
+      <li>
       <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       </a> mysql
+        </li>
     </td>
   </tr>
   <tr>
     <td><h3>Backend as a Service (BaaS):</h3></td>
     <td>
+      <li>
       <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-      </a> heroku
+      </a> heroku</li>
     </td>
     <td><h3>Frameworks:</h3></td>
     <td>
+      <li>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-      </a> django
+      </a> django   
+      </li>
+        <li>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-      </a> flask
+      </a> flask </li>
     </td>
   </tr>
   <tr>
     <td><h3>Testing:</h3></td>
-    <td>
+    <td><li>
       <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-      </a> selenium
+      </a> selenium</li>
     </td>
     <td><h3>Software:</h3></td>
-    <td>
+    <td><li>
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      </a> postman
+      </a> postman</li>
     </td>
   </tr>
   <tr>
     <td><h3>Other:</h3></td>
-    <td>
+    <td><li>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-      </a> arduino
+      </a> arduino</li>
     </td>
   </tr>
 </table>
