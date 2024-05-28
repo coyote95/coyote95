@@ -102,11 +102,11 @@
   <tr>
       <td><h3>Security Standards:</h3></td>
     <td><li>
-      <a href="https://gdpr-info.eu/" target="_blank" rel="noreferrer">
+      <a href="https://en.wikipedia.org/wiki/Personal_data" target="_blank" rel="noreferrer">
       RGPD
       </a></li>
       <li>
-      <a href="https://owasp.org/" target="_blank" rel="noreferrer">
+      <a href="https://en.wikipedia.org/wiki/OWASP" target="_blank" rel="noreferrer">
       OWASP
       </a></li
   </tr>
