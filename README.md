@@ -93,5 +93,10 @@
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
       </a> arduino</li>
     </td>
+    <td><h3>Architectural Patterns:</h3></td>
+    <td><li>
+      <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" target="_blank" rel="noreferrer">MVC
+      </a></li>
+    </td>
   </tr>
 </table>
