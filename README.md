@@ -1,8 +1,8 @@
-# Voici la liste de mes connaissances
+## Performance
 
-![](https://geps.dev/progress/70)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-## Skills
+## Technical Skills
 
 <table>
   <tr>
@@ -111,3 +111,9 @@
       </a></li
   </tr>
 </table>
+
+## Soft Skills
+
+<p><strong>English Proficiency:</strong> <img src="https://geps.dev/progress/60" alt="" /></p>
+<p><strong>Autonomy:</strong> <img src="https://geps.dev/progress/90" alt="" /></p>
+<p><strong>Rigor:</strong> <img src="https://geps.dev/progress/90" alt="" /></p>
