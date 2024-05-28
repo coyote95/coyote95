@@ -1,6 +1,6 @@
 ## Performances
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=coyote95&show_icons=true&theme=radical)
 
 ## Technical Skills
 
