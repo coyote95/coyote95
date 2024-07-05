@@ -52,12 +52,16 @@
     </td>
   </tr>
   <tr>
-    <td><h3>Backend as a Service (BaaS):</h3></td>
+    <td><h3>Hosting:</h3></td>
     <td>
       <li>
       <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
       </a> heroku</li>
+      <li>
+      <a href="https://render.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/render.svg" alt="render" width="40" height="40"/>
+      </a>render</li>
     </td>
     <td><h3>Frameworks:</h3></td>
     <td>
@@ -87,11 +91,11 @@
     </td>
   </tr>
   <tr>
-    <td><h3>Other:</h3></td>
+   <td><h3>Monitoring & Debugging:</h3></td>
     <td><li>
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-      </a> arduino</li>
+      <a href="https://sentry.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="sentry" width="40" height="40"/>
+      </a>sentry</li>
     </td>
     <td><h3>Architectural Patterns:</h3></td>
     <td><li>
@@ -108,7 +112,27 @@
       <li>
       <a href="https://en.wikipedia.org/wiki/OWASP" target="_blank" rel="noreferrer">
       OWASP
-      </a></li
+      </a></li>
+       <td><h3>Development Methodologies:</h3></td>
+ <td>
+      <li>
+      <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" target="_blank" rel="noreferrer">
+      Scrum
+      </a></li>
+      <li>
+      <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank" rel="noreferrer">
+      Agile
+      </a></li>
+    </td>
+  </tr>
+  <tr>
+   <td><h3>CI/CD:</h3></td>
+    <td><li>
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github actions" width="40" height="40"/>
+      </a>github actions</li>
+    </td>
+    
   </tr>
 </table>
 
